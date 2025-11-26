@@ -67,5 +67,7 @@ app.listen(PORT, () => {
   console.log(`API endpoint: http://localhost:${PORT}/api`);
   console.log(`DB endpoint: http://localhost:${PORT}/db`);
   console.log("CI Test: backend updated");
+  console.log("CI Test: backend updated(V2)");
+
 });
 
